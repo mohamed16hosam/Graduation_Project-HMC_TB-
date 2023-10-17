@@ -1,0 +1,1072 @@
+Coverage Report Summary Data by instance
+
+=================================================================================
+=== Instance: /tb_top/dut/synchronous_axi4_tx_fifo/fifo_tx_data_sync
+=== Design Unit: work.openhmc_sync_fifo_reg_based
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         8         7         1    87.50%
+    Expressions                     10        10         0   100.00%
+    Statements                      27        27         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[15]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[15]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[14]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[14]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[13]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[13]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[12]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[12]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[11]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[11]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[10]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[10]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[9]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[9]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[8]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[8]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[7]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[7]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[6]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[6]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[5]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[5]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[4]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[4]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[3]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[3]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[2]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[2]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[1]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[1]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[0]/scrambler_I/genblk2/run_length_limiter_I
+=== Design Unit: work.tx_run_length_limiter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        48        46         2    95.83%
+    Conditions                       6         2         4    33.33%
+    Expressions                     45        45         0   100.00%
+    Statements                      51        49         2    96.07%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/scrambler_gen[0]/scrambler_I
+=== Design Unit: work.tx_scrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                     64        64         0   100.00%
+    Statements                      68        68         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/retry_buffer_gen[3]/retry_buffer_per_lane_I
+=== Design Unit: work.openhmc_ram
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/retry_buffer_gen[2]/retry_buffer_per_lane_I
+=== Design Unit: work.openhmc_ram
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/retry_buffer_gen[1]/retry_buffer_per_lane_I
+=== Design Unit: work.openhmc_ram
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/retry_buffer_gen[0]/retry_buffer_per_lane_I
+=== Design Unit: work.openhmc_ram
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/tx_crc_combine_I/crc_accu_gen[3]/crc_accu_I
+=== Design Unit: work.crc_accu
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Expressions                    568       568         0   100.00%
+    Statements                      43        43         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/tx_crc_combine_I/crc_accu_gen[2]/crc_accu_I
+=== Design Unit: work.crc_accu
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Expressions                    568       568         0   100.00%
+    Statements                      43        43         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/tx_crc_combine_I/crc_accu_gen[1]/crc_accu_I
+=== Design Unit: work.crc_accu
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Expressions                    568       568         0   100.00%
+    Statements                      43        43         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/tx_crc_combine_I/crc_accu_gen[0]/crc_accu_I
+=== Design Unit: work.crc_accu
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Expressions                    568       568         0   100.00%
+    Statements                      43        43         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/tx_crc_combine_I/crc_init_gen[3]/crc_init_I
+=== Design Unit: work.crc_128_init
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Expressions                   1325      1325         0   100.00%
+    Statements                      33        33         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/tx_crc_combine_I/crc_init_gen[2]/crc_init_I
+=== Design Unit: work.crc_128_init
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Expressions                   1325      1325         0   100.00%
+    Statements                      33        33         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/tx_crc_combine_I/crc_init_gen[1]/crc_init_I
+=== Design Unit: work.crc_128_init
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Expressions                   1325      1325         0   100.00%
+    Statements                      33        33         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/tx_crc_combine_I/crc_init_gen[0]/crc_init_I
+=== Design Unit: work.crc_128_init
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Expressions                   1325      1325         0   100.00%
+    Statements                      33        33         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I/tx_crc_combine_I
+=== Design Unit: work.tx_crc_combine
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        68        59         9    86.76%
+    Conditions                       7         7         0   100.00%
+    Statements                     126       104        22    82.53%
+
+=================================================================================
+=== Instance: /tb_top/dut/tx_link_I
+=== Design Unit: work.tx_link
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                       201       179        22    89.05%
+    Conditions                      79        56        23    70.88%
+    Expressions                     41         3        38     7.31%
+    FSM States                      11        11         0   100.00%
+    FSM Transitions                 23        19         4    82.60%
+    Statements                     343       311        32    90.67%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[15]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[15]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[14]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[14]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[13]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[13]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[12]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[12]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[11]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[11]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[10]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[10]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[9]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[9]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[8]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[8]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[7]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[7]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[6]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[6]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[5]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[5]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[4]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[4]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[3]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[3]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[2]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[2]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[1]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[1]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[0]/rx_lane_I/descrambler_I
+=== Design Unit: work.rx_descrambler
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        12         9         3    75.00%
+    Conditions                       1         0         1     0.00%
+    Expressions                     92        91         1    98.91%
+    Statements                      87        85         2    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/lane_gen[0]/rx_lane_I
+=== Design Unit: work.rx_lane_logic
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      3         2         1    66.66%
+    Statements                       4         4         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/rx_crc_compare/crc_accu_gen[3]/crc_accu_I
+=== Design Unit: work.crc_accu
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Expressions                    568       568         0   100.00%
+    Statements                      43        43         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/rx_crc_compare/crc_accu_gen[2]/crc_accu_I
+=== Design Unit: work.crc_accu
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Expressions                    568       568         0   100.00%
+    Statements                      43        43         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/rx_crc_compare/crc_accu_gen[1]/crc_accu_I
+=== Design Unit: work.crc_accu
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Expressions                    568       568         0   100.00%
+    Statements                      43        43         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/rx_crc_compare/crc_accu_gen[0]/crc_accu_I
+=== Design Unit: work.crc_accu
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Expressions                    568       568         0   100.00%
+    Statements                      43        43         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/rx_crc_compare/crc_init_gen[3]/crc_init_I
+=== Design Unit: work.crc_128_init
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Expressions                   1325      1325         0   100.00%
+    Statements                      33        33         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/rx_crc_compare/crc_init_gen[2]/crc_init_I
+=== Design Unit: work.crc_128_init
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Expressions                   1325      1325         0   100.00%
+    Statements                      33        33         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/rx_crc_compare/crc_init_gen[1]/crc_init_I
+=== Design Unit: work.crc_128_init
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Expressions                   1325      1325         0   100.00%
+    Statements                      33        33         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/rx_crc_compare/crc_init_gen[0]/crc_init_I
+=== Design Unit: work.crc_128_init
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Expressions                   1325      1325         0   100.00%
+    Statements                      33        33         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/rx_crc_compare
+=== Design Unit: work.rx_crc_compare
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        87        78         9    89.65%
+    Conditions                      11         8         3    72.72%
+    Expressions                      4         2         2    50.00%
+    Statements                     153       135        18    88.23%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/use_input_buffer/input_buffer_I/sync_fifo_reg_stage_3_I
+=== Design Unit: work.openhmc_sync_fifo_reg_stage
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Expressions                     14        11         3    78.57%
+    Statements                       8         8         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/use_input_buffer/input_buffer_I/ram
+=== Design Unit: work.openhmc_ram
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         3         3    50.00%
+    Statements                       7         4         3    57.14%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I/use_input_buffer/input_buffer_I
+=== Design Unit: work.openhmc_sync_fifo
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        24        21         3    87.50%
+    Conditions                      25        14        11    56.00%
+    Expressions                     17         2        15    11.76%
+    Statements                      35        31         4    88.57%
+
+=================================================================================
+=== Instance: /tb_top/dut/rx_link_I
+=== Design Unit: work.rx_link
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                      2205      1159      1046    52.56%
+    Conditions                      37        19        18    51.35%
+    Expressions                   3121      1068      2053    34.21%
+    FSM States                       8         8         0   100.00%
+    FSM Transitions                 14        14         0   100.00%
+    Statements                    1433      1402        31    97.83%
+
+=================================================================================
+=== Instance: /tb_top/dut/synchronous_axi4_rx_fifo/fifo_rx_data_sync
+=== Design Unit: work.openhmc_sync_fifo_reg_based
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         8         7         1    87.50%
+    Expressions                     10        10         0   100.00%
+    Statements                      27        27         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/openhmc_rf_I/tx_link_retries_count_I
+=== Design Unit: work.openhmc_counter48
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         7         5         2    71.42%
+    Statements                       8         7         1    87.50%
+
+=================================================================================
+=== Instance: /tb_top/dut/openhmc_rf_I/errors_on_rx_count_I
+=== Design Unit: work.openhmc_counter48
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         7         4         3    57.14%
+    Statements                       8         6         2    75.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/openhmc_rf_I/run_length_bit_flip_count_I
+=== Design Unit: work.openhmc_counter48
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         7         4         3    57.14%
+    Statements                       8         6         2    75.00%
+
+=================================================================================
+=== Instance: /tb_top/dut/openhmc_rf_I/error_abort_not_cleared_count_I
+=== Design Unit: work.openhmc_counter48
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         7         5         2    71.42%
+    Statements                       8         7         1    87.50%
+
+=================================================================================
+=== Instance: /tb_top/dut/openhmc_rf_I
+=== Design Unit: work.openhmc_rf
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        40        39         1    97.50%
+    Conditions                      20        20         0   100.00%
+    Expressions                     30        26         4    86.66%
+    Statements                     131       128         3    97.70%
+
+=================================================================================
+=== Instance: /tb_top/dut/openhmc_sva_1
+=== Design Unit: work.openhmc_sva
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Assertions                      10        10         0   100.00%
+
+=================================================================================
+=== Instance: /tb_top/dut
+=== Design Unit: work.openhmc_top
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Expressions                      5         5         0   100.00%
+    Statements                       1         1         0   100.00%
+
+=================================================================================
+=== Instance: /cmd_pkg
+=== Design Unit: work.cmd_pkg
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Assertions                       2         2         0   100.00%
+
+=================================================================================
+=== Instance: /hmc_agent_pkg
+=== Design Unit: work.hmc_agent_pkg
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Assertions                      22        22         0   100.00%
+
+=================================================================================
+=== Instance: /axi_pkg
+=== Design Unit: work.axi_pkg
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Assertions                       2         2         0   100.00%
+
+=================================================================================
+=== Instance: /tb_pkg
+=== Design Unit: work.tb_pkg
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Covergroups                      3        na        na    98.12%
+        Coverpoints/Crosses         12        na        na        na
+            Covergroup Bins         67        65         2    97.01%
+
+=================================================================================
+=== Instance: /seq_pkg
+=== Design Unit: work.seq_pkg
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Assertions                       5         5         0   100.00%
+
+
+TOTAL COVERGROUP COVERAGE: 98.12%  COVERGROUP TYPES: 3
+
+TOTAL ASSERTION COVERAGE: 100.00%  ASSERTIONS: 41
+
+Total Coverage By Instance (filtered view): 87.14%
+
